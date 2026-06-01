@@ -1,15 +1,20 @@
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!--                    FAYSAL ALI SHAH · PROFILE README                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- 🎬 Custom animated banner (hand-built SVG, loops live on GitHub) -->
+<img src="assets/banner.svg" width="100%" alt="Faysal Ali Shah — Electrical Engineer · Robotics · Embedded · ML"/>
+
+<br/><br/>
+
+<!-- Animated typing line -->
 <a href="https://zero-state-logic.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=E8923A&center=true&vCenter=true&width=700&lines=Faysal+Ali+Shah;Electrical+Engineer+%C2%B7+NUST;Robotics+%C2%B7+Embedded+%C2%B7+ML;Hardware+meets+purpose." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E8923A&center=true&vCenter=true&width=620&lines=Hardware+meets+software+%E2%80%94+and+it+actually+works.;Building+research-worthy+systems%2C+not+just+demos.;Robotics+%C2%B7+Embedded+%C2%B7+Machine+Learning" alt="Typing intro"/>
 </a>
 
 <br/>
-
-<p>
-  <em>Third-year Electrical Engineering student at NUST building intelligent systems<br/>where hardware meets software — and everything actually works.</em>
-</p>
 
 <!-- Social badges -->
 <p>
@@ -22,17 +27,17 @@
   <a href="mailto:engr.faysalshah@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Islamabad,_PK-52C97A?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Islamabad,_PK-52C97A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-<!-- Profile views counter -->
 <img src="https://komarev.com/ghpvc/?username=zero-state-logic&label=Profile%20views&color=e8923a&style=flat" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-### 🛰 &nbsp;About
+<!-- ===================== ABOUT ===================== -->
+### 🛰&nbsp;&nbsp;About
 
 ```yaml
 name:        Faysal Ali Shah
@@ -44,145 +49,79 @@ status:      Open to internships & research collaborations
 mindset:     Build research-worthy systems, not just demos.
 ```
 
----
+<br/>
 
-### 🤖 &nbsp;Featured Projects
+<!-- ===================== PROJECTS ===================== -->
+### 🤖&nbsp;&nbsp;Featured Projects
 
-> **Fourteen systems. One philosophy.**  
-> Each project below is fully built and tested — from open-source research projects to commercial hardware products. Some are private because they are active competition entries or commercial IP — noted where it applies.
+> **Six systems. One philosophy.**  
+> Every project below is fully built and tested — spanning autonomous robotics, embedded firmware, automation, and commercial hardware. A few are private (active competition entries or commercial IP) and are noted as such.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧹 NeuroSweep**  
-`ROS 2` `Webots` `SLAM` `Bayesian Inference`
+#### 🧹 NeuroSweep
+`ROS 2` · `Webots` · `SLAM` · `Bayesian Inference`
 
-Autonomous cleaning simulation with SLAM navigation and a custom Bayesian Inference Node generating real-time probabilistic dirt heatmaps.
-
-</td>
-<td width="50%" valign="top">
-
-**🚗 Autonomous Indoor RC Car**  
-`SLAM` `Computer Vision` `ROS 2` `Sensor Fusion`
-
-SLAM-driven autonomous navigation with onboard computer vision, obstacle avoidance, and human interaction. Active development.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤚 Gesture-Controlled Laptop**  
-`Python` `MediaPipe` `OpenCV`
-
-Real-time hand-tracking with 21-landmark detection — control laptop functions through gestures from a live camera feed.
+Autonomous cleaning-robot simulation with SLAM navigation and a custom **Bayesian Inference Node** that builds real-time probabilistic dirt heatmaps to plan the most efficient route.
 
 </td>
 <td width="50%" valign="top">
 
-**🖱 Air Mouse &nbsp;◆ Commercial**  
-`IMU` `BLE` `PCB Design` `Embedded C`
+#### 🔗 LinkedIn Automation Bot
+`Python` · `Selenium` · `Stealth`
 
-Wireless handheld IMU-driven cursor controller built as a commercial product. Hardware, firmware, and PCB designed in-house. Closed source — contact for demo.
+Production-grade data-collection tool with stealth browsing, CSV logging, pagination, session resume, and duplicate detection — engineered for reliability at scale.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔗 LinkedIn Automation Bot**  
-`Python` `Selenium` `Stealth`
+#### 🖱 Air Mouse &nbsp;<kbd>◆ Commercial</kbd>
+`IMU` · `BLE` · `PCB Design` · `Embedded C`
 
-Production-grade scraper with stealth browsing, CSV logging, pagination, session resume, and duplicate detection.
-
-</td>
-<td width="50%" valign="top">
-
-**🏎 Advanced PID Line Follower &nbsp;◈ Competition**  
-`Arduino Nano` `L298N` `PID` `IR Sensors`
-
-5-way IR sensor array with tuned PID (Kp=0.25, Ki=0.0001, Kd=0.5), junction detection, multi-step navigation. Private — active competition entry.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📡 Bidirectional Morse Code Transceiver**  
-`ESP32` `ESP-NOW` `Embedded C` `I2C`
-
-Peer-to-peer wireless communication between two ESP32 nodes using ESP-NOW protocol with <100ms latency, Morse encode/decode, LCD over I2C, and haptic feedback.
+Wireless handheld **IMU-driven cursor controller**, built end-to-end as a commercial product — hardware, firmware, and custom PCB designed in-house. _Closed source — contact for a demo._
 
 </td>
 <td width="50%" valign="top">
 
-**🏠 Smart Home Security & Safety**  
-`ATmega32` `Multi-sensor` `C`
+#### 📡 Bidirectional Morse Code Transceiver
+`ESP32` · `ESP-NOW` · `Embedded C` · `I2C`
 
-Bare-metal C firmware integrating flame, CO, CO₂ and temperature sensors via ADC with configurable threshold alerts and interrupt-driven polling.
+Peer-to-peer wireless link between two ESP32 nodes over **ESP-NOW (<100 ms latency)**, with live Morse encode/decode, an I²C LCD, and haptic feedback.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔐 Fingerprint Smart Door Lock &nbsp;◈ Competition**  
-`C/C++` `Embedded` `Biometric`
+#### 🏎 Advanced PID Line Follower &nbsp;<kbd>◈ Competition</kbd>
+`Arduino Nano` · `L298N` · `PID` · `IR Array`
 
-Biometric authentication with capacitive fingerprint sensor and microcontroller access control. Private — active competition entry.
-
-</td>
-<td width="50%" valign="top">
-
-**🐰 Dasai Mochi · Desktop Buddy**  
-`Python` `PyQt` `GPT API`
-
-Mini GPT-based desktop companion that answers questions, gives live time & temperature info, and displays animated cute faces. A physical touch button cycles through facial expressions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⌚ ESP32 Smart Wristwatch**  
-`ESP32-C3` `DS3231` `WS2812`
-
-Touch-enabled wearable IoT device with RTC timekeeping and addressable LED ring display. Custom PCB and 3D-printed enclosure.
+5-way IR sensor array with a finely tuned **PID controller** (Kp 0.25 · Ki 0.0001 · Kd 0.5), junction detection, and multi-step path navigation. _Private — active competition entry._
 
 </td>
 <td width="50%" valign="top">
 
-**💊 Pocket-Vitals**  
-`C++` `Embedded` `Biometric Sensors`
+#### 🕌 QurbaniDesk
+`Python` · `PDF Generation` · `Offline-First`
 
-Open-source handheld health monitoring system measuring pulse, SpO₂, heart rate, body temperature, and EEG — all in a portable device.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🕌 QurbaniDesk**  
-`Python` `PDF Generation` `Offline-First`
-
-Offline-first qurbani management tool for masjids — donor registration, cow inventory, hissa allocation, per-hissa pricing, and auto-generated PDF receipts.
-
-</td>
-<td width="50%" valign="top">
-
-**🎮 AlphaX · Tic-Tac-Toe AI**  
-`Python` `Q-Learning` `DQN` `Tkinter`
-
-Reinforcement learning bot trained via self-play using Q-Learning and Deep Q-Networks. Tkinter GUI with human vs AI gameplay.
+Offline-first management tool for mosques running **Qurbani** (Islamic ritual sacrifice): donor registration, livestock inventory, share allocation & pricing, and auto-generated PDF receipts — no internet required.
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<sub>🔎 More projects — including <b>VitalScope</b> (handheld health monitor) and <b>Dasai Mochi</b> (ESP32 AI desk buddy) — on my <a href="https://zero-state-logic.github.io/portfolio/">portfolio</a>.</sub>
+</div>
 
-### 🛠 &nbsp;Tech Stack
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+### 🛠&nbsp;&nbsp;Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -209,30 +148,33 @@ Reinforcement learning bot trained via self-play using Q-Learning and Deep Q-Net
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
----
+<br/>
 
-### 📊 &nbsp;GitHub Stats
+<!-- ===================== STATS ===================== -->
+### 📊&nbsp;&nbsp;GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zero-state-logic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8923A&icon_color=52C97A&text_color=F0EBE3&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-state-logic&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8923A&text_color=F0EBE3&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zero-state-logic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8923A&icon_color=52C97A&text_color=F0EBE3&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-state-logic&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8923A&text_color=F0EBE3&langs_count=8"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zero-state-logic&hide_border=true&background=0D1117&stroke=E8923A&ring=E8923A&fire=FFD166&currStreakLabel=E8923A&currStreakNum=F0EBE3&sideNums=F0EBE3&dates=9A9BB5&sideLabels=9A9BB5" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zero-state-logic&hide_border=true&background=0D1117&stroke=E8923A&ring=E8923A&fire=FFD166&currStreakLabel=E8923A&currStreakNum=F0EBE3&sideNums=F0EBE3&dates=9A9BB5&sideLabels=9A9BB5"/>
 </div>
 
----
+<br/>
 
-### 🎓 &nbsp;Education & Credentials
+<!-- ===================== EDUCATION ===================== -->
+### 🎓&nbsp;&nbsp;Education & Credentials
 
-**B.Sc. Electrical Engineering** — NUST &nbsp;·&nbsp; 2023 – 2027 &nbsp;·&nbsp; 6th Semester  
-**Data Analytics Intern** — KPMG Australia (via Fluxxion) &nbsp;·&nbsp; Jun – Jul 2025  
-**Certifications** — Machine Learning Using Python, Databricks for ML, ML Bootcamp (GDG PIEAS), Python 2000, C++ Essentials 1 (NUST/Cisco), Digital Skills: AI (Accenture · 86%)
+**B.Sc. Electrical Engineering** — NUST &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; 6th Semester  
+**Data Analytics Intern** — KPMG Australia (via Fluxxion) &nbsp;·&nbsp; Jun–Jul 2025  
+**Certifications** — Machine Learning Using Python · Databricks for ML · ML Bootcamp (GDG PIEAS) · Python 2000 · C++ Essentials 1 (NUST/Cisco) · Digital Skills: AI (Accenture · 86%)
 
----
+<br/>
 
+<!-- ===================== CONTACT ===================== -->
 <div align="center">
 
-### 💬 &nbsp;Let's build something.
+### 💬&nbsp;&nbsp;Let's build something.
 
 <a href="mailto:engr.faysalshah@gmail.com">
   <img src="https://img.shields.io/badge/engr.faysalshah@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -242,10 +184,11 @@ Reinforcement learning bot trained via self-play using Q-Learning and Deep Q-Net
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="tel:+923295709505">
-  <img src="https://img.shields.io/badge/%2B92-329-5709505-52C97A?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+<a href="https://wa.me/923295709505">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<sub>⚡ <em>Available for internships, research collaborations, and engineering roles &nbsp;·&nbsp; 2026</em></sub>
+<br/><br/>
+<sub>⚡ <em>Available for internships, research collaborations, and engineering roles · 2026</em></sub>
 
 </div>
