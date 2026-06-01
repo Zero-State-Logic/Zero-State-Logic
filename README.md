@@ -11,7 +11,7 @@
 
 <!-- Animated typing line -->
 <a href="https://zero-state-logic.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E8923A&center=true&vCenter=true&width=620&lines=Hardware+meets+software+%E2%80%94+and+it+actually+works.;Building+research-worthy+systems%2C+not+just+demos.;Robotics+%C2%B7+Embedded+%C2%B7+Machine+Learning" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=E8923A&center=true&vCenter=true&width=800&height=45&lines=Hardware+meets+software+%E2%80%94+and+it+actually+works.;Building+research-worthy+systems%2C+not+just+demos.;Robotics+%C2%B7+Embedded+%C2%B7+Machine+Learning" alt="Typing intro"/>
 </a>
 
 <br/>
